@@ -1,2 +1,6 @@
+WELCOME TO MY WEBSITE
+
+
 25L-0623
-This is the lab I did previously in my IICT class practicing and learning some web development.
+This is my first HTML and CSS project uploaded using GitHub Desktop.
+So lets start with this.
